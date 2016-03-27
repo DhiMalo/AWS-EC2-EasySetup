@@ -1,5 +1,5 @@
 # AWS-EC2-EasySetup
-Step-by-step launch a server on Amazon Web Services EC2 (Elastic Compute Cloud)  
+Launch a server on Amazon Web Services EC2 (Elastic Compute Cloud)  
 
 <i> This repo is under construction. Please visit again! </i>
 
